@@ -1,12 +1,32 @@
-# React + Vite
+# 🎬 React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie browser built with **React** and **Vite** that lets users:
 
-Currently, two official plugins are available:
+- 🔥 View **popular movies** on the home page  
+- 🔍 **Search** for movies by title  
+- ❤️ **Add movies to favorites**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🏠 **Home Page** – Browse trending/popular movies from TMDb  
+- 🔍 **Search** – Find movies by title  
+- 💾 **Favorites Page** – View and manage your favorite movies  
+- 💡 **Global State Management** – Powered by React Context API  
+- ⚡ Fast and lightweight with **Vite**  
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Hooks, Context)
+- 💨 Tailwind CSS / Custom CSS
+- 🧠 Context API
+- 🔧 Vite (for lightning-fast development)
+- 🌐 TMDb API
+
+---
+
+
+
